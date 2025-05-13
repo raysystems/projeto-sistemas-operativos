@@ -1,0 +1,69 @@
+{
+	"jogos":	[{
+			"gameId":	1124289452,
+			"gameDate":	"D",
+			"gameMode":	"C",
+			"Winner":	"Pares",
+			"tempo":	920
+		}, {
+			"gameId":	1431289245,
+			"gameDate":	"D",
+			"gameMode":	"C",
+			"Winner":	"Pares",
+			"tempo":	447
+		}, {
+			"gameId":	1126489312,
+			"gameDate":	"2025-01-02 20:55:29",
+			"gameMode":	"C",
+			"Winner":	"Impares",
+			"tempo":	203
+		}, {
+			"gameId":	1123589383,
+			"gameDate":	"2025-01-02 21:22:30",
+			"gameMode":	"C",
+			"Winner":	"Impares",
+			"tempo":	101
+		}, {
+			"gameId":	1135141368,
+			"gameDate":	"2025-01-03 00:33:00",
+			"gameMode":	"B",
+			"Winner":	"1",
+			"tempo":	141
+		}, {
+			"gameId":	1435938218,
+			"gameDate":	"2025-01-03 00:35:47",
+			"gameMode":	"B",
+			"Winner":	"0",
+			"tempo":	235
+		}, {
+			"gameId":	1735938368,
+			"gameDate":	"2025-01-03 00:37:55",
+			"gameMode":	"B",
+			"Winner":	"0",
+			"tempo":	421
+		}, {
+			"gameId":	1804289383,
+			"gameDate":	"2025-01-03 00:44:44",
+			"gameMode":	"C",
+			"Winner":	"Pares",
+			"tempo":	101
+		}, {
+			"gameId":	1710206302,
+			"gameDate":	"2025-01-03 21:12:28",
+			"gameMode":	"A",
+			"Winner":	"0",
+			"tempo":	173
+		}, {
+			"gameId":	1125423643,
+			"gameDate":	"2025-01-03 22:14:18",
+			"gameMode":	"A",
+			"Winner":	"1",
+			"tempo":	375
+		}, {
+			"gameId":	1912415613,
+			"gameDate":	"2025-01-03 22:14:18",
+			"gameMode":	"A",
+			"Winner":	"1",
+			"tempo":	375
+		}]
+}

@@ -1,0 +1,22 @@
+{
+    "jogos": [
+        {
+            "idJogo": 1,
+            "nome": "Jogo Facil",
+            "descricao": "Jogo facil para testar o servidor",
+            "dificuldade": 1,
+            "tamanholinha": 9,
+            "solucao": "913568274687342159254197836345926718726851493891473562162734985479685321538219647",
+            "tabuleiroProposto": "913568274687342159254197836345926718726851493891473562162734985479680021538219640"
+        },
+        {
+            "idJogo": 2,
+            "nome": "Jogo Medio",
+            "descricao": "Jogo medio para testar o servidor",
+            "dificuldade": 2,
+            "tamanholinha": 9,
+            "solucao": "913568274687342159254197836345926718726851493891473562162734985479685321538219647",
+            "tabuleiroProposto": "013568274687002159254197830345926718726851493800470002162734985479680021538219640"
+        }
+    ]
+}
